@@ -1,3 +1,4 @@
-# Welcome to OpenIDK?
+# OpenIDK
 
-this is a custom OpenJDK from Orcale more info about OpenJDK at <https://openjdk.org/> 
+Based on [OpenJDK](https://openjdk.org/) (GPLv2 + Classpath Exception).  
+Not affiliated with Oracle.
